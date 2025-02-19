@@ -1,7 +1,7 @@
-# I am deepak
+# Hi I am Deepak Kumar
 
-## 🚀 About Me
-I'm a **Computer Science Engineering** student with a passion for **competitive programming, AI, and full-stack development**. I love exploring new technologies and working on innovative projects that push my limits. 
+- I'm a **Computer Science Engineering** student with a passion for **competitive programming, AI, and full-stack development**. 
+- I love flexing my creative muscles ;)
 
 
 ## 💻 Tech Stack
